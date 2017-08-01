@@ -9,7 +9,7 @@ List of open source system dynamics tools
 
 [SDEverywhere](https://github.com/ToddFincannon/SDEverywhere)
 - Vensim model translation to C, JavaScript, WebAssembly, HTML
-- Execution engine
+- Execution engine for C, JavaScript/WASM
 
 [SDXchange](https://github.com/SDXchange/SDXchange.github.io)
 - Dynamo translation to XMILE
