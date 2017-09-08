@@ -26,3 +26,6 @@ List of open source system dynamics tools
 [EMA Workbench](https://github.com/quaquel/EMAworkbench)
 - Wrapper for Vensim, NetLogo, Python models
 - Model analysis tools
+
+[StellaR](http://www.r-gis.net/stellar/)
+- Stella model translation to R
