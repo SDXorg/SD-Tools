@@ -18,7 +18,7 @@ List of open source system dynamics tools
 - XMILE view and engine
 - graphical interface for adjusting model parameters
 
-[SDM-Doc](http://tools.systemdynamics.org/sdm-doc/)
+[SDM-Doc](https://www.systemdynamics.org/SDM-doc)
 - Documentation formatter for XMILE and Vensim
 - Vensim and XMILE to Java translation
 - XMILE to Vensim translation
