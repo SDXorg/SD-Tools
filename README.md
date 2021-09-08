@@ -1,6 +1,13 @@
 # SD-Tools
 List of open source system dynamics tools
 
+[EMA Workbench](https://github.com/quaquel/EMAworkbench)
+- Wrapper for Vensim, NetLogo, Python models
+- Model analysis tools
+
+[InsightMaker](https://insightmaker.com/)
+- Browser based
+- Collaboration feature
 
 [PySD](https://github.com/JamesPHoughton/pysd)
 - Vensim model translation to Python
@@ -23,9 +30,9 @@ List of open source system dynamics tools
 - Vensim and XMILE to Java translation
 - XMILE to Vensim translation
 
-[EMA Workbench](https://github.com/quaquel/EMAworkbench)
-- Wrapper for Vensim, NetLogo, Python models
-- Model analysis tools
-
 [StellaR](http://www.r-gis.net/stellar/)
 - Stella model translation to R
+
+[StochSD](http://stochsd.sourceforge.io/)
+- Available as web-application and offline for Windows, Mac and Linux
+- Focus on Stochastics
