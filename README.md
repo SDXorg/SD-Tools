@@ -5,14 +5,20 @@ List of open source system dynamics tools
 - Wrapper for Vensim, NetLogo, Python models
 - Model analysis tools
 
+[excels2vensim](https://github.com/SDXorg/excels2vensim)
+- Automatization of equation generation to read multidimensional Excel data in Vensim using cellranges
+- It can be used with a Python API, JSON files or a GUI
+
 [InsightMaker](https://insightmaker.com/)
 - Browser based
 - Collaboration feature
 
-[PySD](https://github.com/JamesPHoughton/pysd)
+[PySD](https://github.com/SDXorg/pysd)
 - Vensim model translation to Python
+- XMILE model translation to Python
 - Execution engine with Python API
 - Model testing tools
+- Abstract Syntax Tree structure is used between the translation and building processes to allow easily adding new input or output languages
 
 [SDEverywhere](https://github.com/ToddFincannon/SDEverywhere)
 - Vensim model translation to C, JavaScript, WebAssembly, HTML
