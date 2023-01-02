@@ -13,6 +13,10 @@ List of open source system dynamics tools
 - Browser based
 - Collaboration feature
 
+[drawio_pysd](https://github.com/ScienceGamez/drawio_pysd)
+- Take advantage of draw.io capabilities
+- Open source, free, cross-plattform
+
 [PySD](https://github.com/SDXorg/pysd)
 - Vensim model translation to Python
 - XMILE model translation to Python
